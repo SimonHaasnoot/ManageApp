@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="DJNativeSwing-SWT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/nativeswing/DJNativeSwing-SWT.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/nativeswing/DJNativeSwing.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/nativeswing/DJNativeSwing-SWTDemo.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/swt" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/nativeswing/DJNativeSwing-SWTDemo.jar!/src" />
+      <root url="file://$USER_HOME$/Desktop/swt" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Desktop/swt" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/swt" recursive="false" type="SOURCES" />
+  </library>
+</component>
